@@ -1,0 +1,12 @@
+.navbar-brand img {width:100px}
+
+#boton_verde{color:#25a342;}
+
+
+.carousel-item{filter:brightness(50%);}
+
+#final{font-size: smaller;
+        overflow-wrap: normal;
+        text-align: center;
+        justify-content: center;
+}
